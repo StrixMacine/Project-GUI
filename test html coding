@@ -1,3 +1,1 @@
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/StrixMacine/BETA-HUB/main/TEST"))()
+print("StrixMacine/Project-GUI")
